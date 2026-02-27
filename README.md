@@ -5,17 +5,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python) ![python-can](https://img.shields.io/badge/python--can-4.6.1-green) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey) ![Cost](https://img.shields.io/badge/Hardware%20Cost-0%20%E2%82%BA-brightgreen)
 
----
 
-## 👁️ Proje Demosu
-
-![CANbus Analyzer Çalışma Videosu](assets/canbus.gif)
-*Sistemin genel çalışması ve gerçek zamanlı verilerin çizdirilmesi.*
-
-![CANbus Analyzer Ekran Görüntüsü](assets/screenshot.png)
-*Arayüzün genel görünümü.*
-
----
 
 ## 📌 What This Project Does
 
