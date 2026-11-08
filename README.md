@@ -9,8 +9,8 @@
 
 ## 📌 What This Project Does
 
-![Live Demo](canbus.gif)
-![Screenshot](canbus.png)
+![Live Demo](assets/canbus.gif)
+![Screenshot](assets/screenshot.png)
 
 
 
